@@ -2,5 +2,7 @@ Some text for header
 
 Some
 ss
-changes from main - new changes
 
+changes from main
+Chanches from <first>
+text from main: new changes
